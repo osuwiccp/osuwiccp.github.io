@@ -1,12 +1,6 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- No Awards
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Just keeping this file in case we want to use it for something else
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Collaborators, maybe?
